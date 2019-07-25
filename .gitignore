@@ -1,0 +1,7 @@
+# Ignore local environment setting files
+*.env
+
+# Ignore venv
+venv
+
+
